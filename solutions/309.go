@@ -35,6 +35,6 @@ func explode(str string) []string{
 
 
 func main(){
-	 res := explode("Ahh, abracadabra!")
+	res := explode("Ahh, abracadabra!")
 	fmt.Println(res)
 }
