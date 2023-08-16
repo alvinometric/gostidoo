@@ -1,6 +1,6 @@
 module alvinometric/gostidoo
 
-go 1.20
+go 1.21
 
 require (
 	github.com/mitranim/gg v0.0.13 // indirect
